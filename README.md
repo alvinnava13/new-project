@@ -1,2 +1,3 @@
 # new-project
-this is a new project
+This is a new project for demo purposes
+I am adding a line
